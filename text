@@ -1,0 +1,7 @@
+step 1 - npx create-react-app ./
+
+tailwind integration
+
+1 . npm i @tailwindcss/line-clamp axios js-abbreviation-number react-player moment
+2 . npm install -D tailwindcss
+3 . npx tailwindcss init
